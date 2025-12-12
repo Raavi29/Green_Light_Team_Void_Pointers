@@ -221,11 +221,12 @@ http://localhost:5173
 
 ## **Team — Void Pointers (DBS Global University)**
 
-* Rishi Anand Sharma
+* Arush Pandey
 * Parneet Kaur
 * Aryan Yadav
-* Aarush Pandey
-* Suryansh Singh
 * Varun Nigam
+* Suryansh Singh
+* Rishi Anand Sharma
 
 ---
+
